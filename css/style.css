@@ -1,0 +1,37 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+
+.navbar-brand img{
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+}
+
+.navbar{
+    background-color: white;
+}
+
+.quem-somos{
+    background-color: royalblue;
+    color: white;
+}
+
+.servicos{
+    background-color: thistle;
+}
+
+.margin{
+        padding-bottom: 50px; /*Margem dentro do container*/
+        padding-top: 10px;
+}
+
+.parceiros{
+    background-color: springgreen;
+    color: white;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
